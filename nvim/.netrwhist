@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/jeffrey/.config/nvim'
+let g:netrw_dirhist_8='/Users/jeffrey/MindTrails/src/frontend'
+let g:netrw_dirhist_7='/Users/jeffrey/.config/nvim'
+let g:netrw_dirhist_6='/Users/jeffrey/isa/models/models_app'
+let g:netrw_dirhist_5='/Users/jeffrey/isa/frontend/frontend_app/templates'
+let g:netrw_dirhist_4='/Users/jeffrey/isa/frontend/frontend_app'
+let g:netrw_dirhist_3='/Users/jeffrey/isa/frontend'
+let g:netrw_dirhist_2='/Users/jeffrey/isa'
+let g:netrw_dirhist_1='/Users/jeffrey/isa/models'
+let g:netrw_dirhist_0='/Users/jeffrey/isa/models/models_app'
